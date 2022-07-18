@@ -12,9 +12,9 @@ Hello there, this is a simple functioning Calculator. this is my first android p
 
 
 ## Screenshots
-![photo_2022-07-18_21-42-30](https://user-images.githubusercontent.com/90321829/179558396-a6576607-7197-4d37-bb06-ab130ee7106b.jpg)
-![photo_2022-07-18_21-42-39](https://user-images.githubusercontent.com/90321829/179558411-28abb8a4-22a9-43f6-8d5f-ffd67ab71281.jpg)
+![Paint1](https://user-images.githubusercontent.com/90321829/179564251-d228bb46-81d8-4939-a4ef-8f7729801a21.jpg)
+![paint2](https://user-images.githubusercontent.com/90321829/179564274-b6abe4dc-af56-4304-a597-092c296beaf0.jpg)
 
 ## License
 
-© Ashutosh Sahoo
+© Ashutosh Sahoo // 2022
